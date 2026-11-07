@@ -1,0 +1,16 @@
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\bin\Debug\net10.0\fifth_project.exe
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\bin\Debug\net10.0\fifth_project.deps.json
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\bin\Debug\net10.0\fifth_project.runtimeconfig.json
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\bin\Debug\net10.0\fifth_project.runtimeconfig.dev.json
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\bin\Debug\net10.0\fifth_project.dll
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\bin\Debug\net10.0\fifth_project.pdb
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.AssemblyInfoInputs.cache
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.AssemblyInfo.cs
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.dll
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\refint\fifth_project.dll
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.pdb
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_project.genruntimeconfig.cache
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\ref\fifth_project.dll
+C:\Users\turka\OneDrive\Desktop\Mentörlük Eğitimi\fifth_project\fifth_project\obj\Debug\net10.0\fifth_pr.AA0A4721.Up2Date
